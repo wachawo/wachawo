@@ -5,7 +5,7 @@
 ### 👋 Hi, I'm **wachawo**
 
 Developer & Software Engineer.<br />
-Linux lover, hardware tinkerer, and lifelong learner.
+Linux geek, hardware lover, and lifelong learner.
 
 
 ### 🔑 My Public SSH Keys  
