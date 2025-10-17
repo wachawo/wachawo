@@ -1,27 +1,24 @@
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
 ### 👋 Hi, I'm **wachawo**
 
-Developer & Software Engineer.
+Developer & Software Engineer.<br />
 Linux lover, hardware tinkerer, and lifelong learner.
 
-<!--
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wachawo&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&&rank_icon=percentile)](https://github.com/wachawo/)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wachawo&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/wachawo)
-<br>
--->
 
-My Public SSH Keys: [Download](https://github.com/wachawo.keys)
-```
-# Download
+### 🔑 My Public SSH Keys  
+
+Download from [GitHub](https://github.com/wachawo.keys)
+```bash
+# Download via curl
 curl -L https://github.com/wachawo.keys -o ~/.ssh/wachawo.pub
+
+# Verify fingerprint
 ssh-keygen -lf ~/.ssh/wachawo.pub -E md5
+# 1d3b 4e22 cd27 2c7b 2d39 98bf e5d4 7365
 ```
-```
-# Check fingerprint
-3072 MD5:1d:3b:4e:22:cd:27:2c:7b:2d:39:98:bf:e5:d4:73:65 no comment (RSA)
-```
-<!--
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/wachawo/)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20)](https://t.me/wachawo)
--->
-[LinkedIn](https://www.linkedin.com/in/wachawo/)
-[Telegram](https://t.me/wachawo)
+
+### 📬 Contact: 
+[LinkedIn](https://www.linkedin.com/in/wachawo/) [Telegram](https://t.me/wachawo)
