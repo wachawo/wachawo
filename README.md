@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm **wachawo**
 
-Developer, Software Engineer, Linux & Hardware Lover, Lifelong Learner.
+Developer & Software Engineer.
+Linux lover, hardware tinkerer, and lifelong learner.
 
 <!--
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wachawo&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&&rank_icon=percentile)](https://github.com/wachawo/)
