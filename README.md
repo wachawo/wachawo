@@ -4,7 +4,7 @@
 <!-- markdownlint-restore -->
 ### 👋 Hi, I'm **wachawo**
 
-DevOps & Software Engineer.<br />
+DevOps Engineer & Software Developer.<br />
 Linux geek, hardware lover, and lifelong learner.
 
 ### 📬 Contact: 
