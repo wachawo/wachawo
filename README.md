@@ -8,4 +8,4 @@ DevOps Engineer & Software Developer.<br />
 Linux geek, hardware lover, and lifelong learner.
 
 ### 📬 Contact: 
-[LinkedIn](https://www.linkedin.com/in/wachawo/) <!-- [Telegram](https://t.me/wachawo) -->
+[LinkedIn](https://www.linkedin.com/in/wachawo/) <!-- [buymeacoffee](https://buymeacoffee.com/wachawo) [Telegram](https://t.me/wachawo) -->
